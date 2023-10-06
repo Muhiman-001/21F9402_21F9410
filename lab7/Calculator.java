@@ -29,4 +29,13 @@ public class Calculator {
 	    System.out.println(n3);
 	}
 	
+	public void div (double n1,double n2)
+	{
+        double n3 =0.0;
+		
+		n3 = n1 * n2;
+		
+	    System.out.println(n3);
+	}
+	}
 }
